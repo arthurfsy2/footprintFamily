@@ -1,7 +1,6 @@
 const data = [ // 0: 没去过 1: 去过1次 2: 去过几次 3: 经常去
   { name: 'China', degree: 3 },
   { name: 'Indonesia', degree: '1' },
-  { name: 'South Korea', degree: '0' },
   { name: 'Texas', degree: '0' },
   { name: 'New York', degree: '0' },
   { name: 'Pennsylvania', degree: '0' },

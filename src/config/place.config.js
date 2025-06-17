@@ -27,6 +27,8 @@ const data = [
   { name: "惠州市", degree: 2 },
   { name: "湛江市", degree: 2 },
   { name: "佛山市", degree: 2 },
+  { name: "汕头市", degree: 1 },
+  { name: "汕尾市", degree: 1 },
   { name: "广西", degree: 0 },
   { name: "贵州", degree: 1 },
   { name: "贵阳市", degree: 1 },

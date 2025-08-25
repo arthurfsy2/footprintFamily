@@ -49,6 +49,7 @@ const data = [
   { name: "江西", degree: 2 },
   { name: "上饶市", degree: 1 },
   { name: "赣州市", degree: 1 },
+  { name: "南昌市", degree: 1 },
   { name: "辽宁", degree: 0 },
   { name: "内蒙古", degree: 0 },
   { name: "宁夏", degree: 0 },

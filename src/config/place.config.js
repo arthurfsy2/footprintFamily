@@ -12,7 +12,7 @@ const data = [
   { name: "合肥市", degree: 1 },
   { name: "铜陵市", degree: 3 },
   { name: "池州市", degree: 3 },
-  { name: "澳门", degree: 1 },
+  { name: "澳门", degree: 3 },
   { name: "北京", degree: 1 },
   { name: "重庆", degree: 0 },
   { name: "北碚区", degree: 0 },
